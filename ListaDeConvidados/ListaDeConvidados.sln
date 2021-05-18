@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31229.75
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraSimples", "CalculadoraSimples\CalculadoraSimples.csproj", "{1161C443-C406-4F7E-9337-6A6011F3A9A7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaDeConvidados", "ListaDeConvidados\ListaDeConvidados.csproj", "{A925A870-AEF9-41AD-AA5D-CB12C6BA2792}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1161C443-C406-4F7E-9337-6A6011F3A9A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1161C443-C406-4F7E-9337-6A6011F3A9A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1161C443-C406-4F7E-9337-6A6011F3A9A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1161C443-C406-4F7E-9337-6A6011F3A9A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A925A870-AEF9-41AD-AA5D-CB12C6BA2792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A925A870-AEF9-41AD-AA5D-CB12C6BA2792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A925A870-AEF9-41AD-AA5D-CB12C6BA2792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A925A870-AEF9-41AD-AA5D-CB12C6BA2792}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {74C560D5-6F33-4967-BC93-6A739F61FC68}
+		SolutionGuid = {C0B4E14B-647D-414A-AB61-C836274ACE39}
 	EndGlobalSection
 EndGlobal
